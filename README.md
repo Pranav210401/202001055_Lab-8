@@ -1,6 +1,4 @@
 # 202001055_Lab-8
-
-# Lab 8 (IT 314)
 # Name - Pranav Patil
 
 ## 1. Creating a new Eclipse project, and within the project create a package and defining the class
